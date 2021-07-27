@@ -1,5 +1,10 @@
 apple 
 grapes
 watermelon
+
 mango
 pomogranate 
+
+strawberry
+litchie
+
